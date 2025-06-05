@@ -2,7 +2,7 @@
 
 🎓 Master’s in Computer Science, University of Massachusetts Amherst  
 📍 Boston, MA  
-📬 ddevaraj@umass.edu | 📞 (857) 270-3579  
+📬 devarajdhamini@gmail.com | 📞 (857) 270-3579  
 🔗 [LinkedIn](https://www.linkedin.com/in/dhamini-devaraj/)  
 📚 [Publication 1 - IoT Botnet Detection](https://www.ijaresm.com/iot-botnet-attack-detection-using-big-data-analytics)  
 📘 [Publication 2 - Hybrid ML for Water Quality](https://link.springer.com/chapter/10.1007/978-981-99-6906-7_40)
