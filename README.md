@@ -88,11 +88,6 @@ Created a vulnerability-focused analysis tool that improved keyword search accur
 - Full-Stack Development  
 - Applied Machine Learning
 
----
-
-## 📊 GitHub Stats
-
-![Dhamini's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhaminideva&show_icons=true&theme=tokyonight) 
 
 ---
 
