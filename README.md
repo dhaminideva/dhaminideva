@@ -92,7 +92,7 @@ Created a vulnerability-focused analysis tool that improved keyword search accur
 
 ## 📊 GitHub Stats
 
-![Dhamini's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhaminidevaraj&show_icons=true&theme=default)
+![Dhamini's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhaminideva&show_icons=true&theme=tokyonight) 
 
 ---
 
