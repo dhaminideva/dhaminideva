@@ -3,7 +3,7 @@
 📍 Boston, MA  
 📧 [devarajdhamini@gmail.com](mailto:devarajdhamini@gmail.com)  
 📞 (857)-270-3579  
-🔗 [LinkedIn](https://www.linkedin.com/in/dhamini-devaraj/) | [Portfolio](https://doc-filler.onrender.com/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/dhamini-devaraj/) | [Portfolio]([https://doc-filler.onrender.com/](https://github.com/dhaminideva))  
 
 ---
 
@@ -19,47 +19,48 @@
 ## 💼 Experience  
 
 ### **Leader Match Pvt Ltd**  
-**Software Developer** | *Jan 2025 – Present | Canton, MI*  
-- Architected and implemented a scalable **Applicant Tracking System (ATS)** using **Node.js**, **React**, and **Azure**, enabling automated hiring workflows, recruiter analytics, and candidate management.  
-- Designed RESTful APIs for job submissions and interview tracking, integrated **PostgreSQL** for data persistence, and visualized pipeline metrics using **Chart.js** and **Axios**.  
-- Implemented CI/CD with **AWS Lambda** and **Azure DevOps**, ensuring reliability across staging and production environments.  
-- Delivered reporting insights using **Power BI**, providing recruiters with real-time analytics on pipeline velocity and candidate throughput.  
+*Software Developer | Jan 2025 – Present | Canton, MI*  
+🚀 Scalable **Applicant Tracking System (ATS)** built with **Node.js**, **React**, and **Azure**  
+🔹 RESTful APIs for job workflows, interview scheduling, and recruiter analytics  
+🔹 **PostgreSQL + Chart.js** dashboards for hiring metrics and CSV exports  
+🔹 Automated CI/CD with **AWS Lambda** and **Azure DevOps**  
+🔹 Insights powered by **Power BI** for real-time hiring performance  
 
 ---
 
 ### **Avocado Systems**  
-**Software Developer** | *May – Sept 2024 | Milpitas, CA*  
-- Migrated the company’s security analytics platform from **Angular** to **React**, improving maintainability and performance by 30%.  
-- Upgraded thousands of deprecated React/JS libraries, resolving build errors and enhancing scalability.  
-- Automated CI/CD pipelines using **AWS Lambda**, **Docker**, and **GitHub Actions**, maintaining secure release standards.  
-- Developed **Node.js** microservices integrating securely with **Salesforce APIs** and **Python/FastAPI** backends.  
-- Validated releases via **Jest** and **Cypress** test suites, integrating coverage reports into CI pipelines.  
+*Software Developer | May – Sept 2024 | Milpitas, CA*  
+🧩 Migrated a large-scale security platform from **Angular → React** (30% faster load time)  
+🔹 Refactored & upgraded thousands of deprecated JS libraries  
+🔹 Automated builds with **AWS Lambda**, **Docker**, and **GitHub Actions**  
+🔹 Developed **Node.js microservices** integrated with **Salesforce APIs** and **FastAPI**  
+🔹 Strengthened release pipelines via **Jest** & **Cypress** coverage integration  
 
 ---
 
-### **VYBN**  
-**Software Developer Intern** | *Oct 2022 – Sept 2023 | Chennai, India*  
-- Developed and deployed the **VYBN e-commerce platform** using **WooCommerce**, **PHP**, **jQuery**, and **JavaScript**, enabling product management, checkout workflows, and order tracking.  
-- Improved site performance using **StackPath CDN** and **AJAX-based dynamic content loading**, reducing load times by 40%.  
-- Integrated analytics and marketing systems like **Google Analytics**, **Facebook Pixel**, and **GoAffPro** to enhance conversion tracking.  
-- Automated sales reports via **REST API hooks** and **MySQL**, exporting business insights for visualization in **Power BI**.  
+### **VYBN** (https://vybn.in/)
+*Software Developer Intern | Oct 2022 – Sept 2023 | Chennai, India*  
+🛒 Built **VYBN e-commerce platform** with **WooCommerce**, **PHP**, **jQuery**, and **JavaScript**  
+🔹 Enhanced performance via **StackPath CDN** & **AJAX dynamic loading** (40% faster)  
+🔹 Embedded **Google Analytics**, **Facebook Pixel**, and **GoAffPro** for sales insights  
+🔹 Automated data exports through **REST hooks** & **MySQL** into **Power BI** dashboards  
 
 ---
 
 ### **Hitachi Solutions**  
-**Software Developer** | *May – Sept 2021 | Chennai, India*  
-- Built a **COVID-19 vaccination registration feature** for a healthcare platform using **ASP.NET MVC**, **React**, and **TypeScript** on **Azure**.  
-- Integrated **Azure AD SSO with RBAC**, **JWT authentication**, and **Salesforce Health Cloud API** for secure patient data exchange.  
-- Enhanced UX with bundle optimization and component virtualization, cutting page latency by 35%.  
-- Automated CI/CD via **Azure DevOps** with **Dockerized builds** for smoke and rollback validation.  
-- Created **Power BI dashboards** connected to **Azure SQL** for data-driven decision-making on patient registration throughput.  
+*Software Developer | May – Sept 2021 | Chennai, India*  
+💉 Designed a **COVID-19 vaccination scheduling feature** on **Azure** using **ASP.NET MVC**, **React**, and **TypeScript**  
+🔹 Secured patient data via **Azure AD SSO**, **JWT**, & **Salesforce Health Cloud APIs**  
+🔹 Optimized UI with caching & virtualization (35% latency reduction)  
+🔹 Automated CI/CD via **Azure DevOps + Dockerized builds**  
+🔹 Delivered **Power BI** dashboards from **Azure SQL** for real-time healthcare analytics   
 
 ---
 
 ## 🚀 Projects  
 
 ### [**Health+**](https://github.com/dhaminideva/health-plus)  
-Built a **full-stack healthcare platform** using **React.js**, **Node.js**, **Express**, and **Stripe** for secure payments and appointment scheduling with role-based dashboards for patients and admins.
+Built a **full-stack e-commerce platform** for purchasing healthcare supplements on a subscription basis, using **React.js**, **Node.js**, **Express**, and **Stripe** for secure payments, recurring billing, and role-based dashboards for patients and admins.
 
 ### [**VitalFlow Metrics**](https://github.com/dhaminideva/vitalflow-metrics)  
 Developed a medical data visualization and monitoring dashboard that tracks health metrics in real-time using **React.js**, **Node.js**, and **MongoDB**, with modular data ingestion pipelines.
@@ -78,10 +79,10 @@ Developed a machine learning pipeline analyzing 500K+ datasets for water quality
 ## 🎓 Education  
 
 **University of Massachusetts Amherst**  
-*M.S. in Computer Science (Cybersecurity Specialization)* — *May 2025*  
+*M.S. in Computer Science* — *CGPA: 3.5/4.0*  
 
 **Anna University**  
-*B.E. in Computer Science and Engineering* — *CGPA: 3.5/4.0*  
+*B.E. in Computer Science and Engineering* — *CGPA: 8.8/10*  
 
 ---
 
