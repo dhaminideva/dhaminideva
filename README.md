@@ -3,7 +3,7 @@
 📍 Boston, MA  
 📧 [devarajdhamini@gmail.com](mailto:devarajdhamini@gmail.com)  
 📞 (857)-270-3579  
-🔗 [LinkedIn](https://www.linkedin.com/in/dhamini-devaraj/) | [Portfolio]([https://doc-filler.onrender.com/](https://github.com/dhaminideva))  
+🔗 [LinkedIn](https://www.linkedin.com/in/dhamini-devaraj/) | [Portfolio](https://github.com/dhaminideva)  
 
 ---
 
@@ -38,7 +38,7 @@
 
 ---
 
-### **VYBN** (https://vybn.in/)
+### **VYBN**(https://vybn.in/)
 *Software Developer Intern | Oct 2022 – Sept 2023 | Chennai, India*  
 🛒 Built **VYBN e-commerce platform** with **WooCommerce**, **PHP**, **jQuery**, and **JavaScript**  
 🔹 Enhanced performance via **StackPath CDN** & **AJAX dynamic loading** (40% faster)  
