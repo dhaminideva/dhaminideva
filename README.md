@@ -20,7 +20,7 @@
 
 ### **Leader Match Pvt Ltd**  
 *Software Developer | Jan 2025 – Present | Canton, MI*  
-🚀 Scalable **Applicant Tracking System (ATS)** built with **Node.js**, **React**, and **Azure**  
+🚀 Scalable **Applicant Tracking System (ATS)** built with **Node.js**, **React**, **Python scripting** and **Azure**  
 🔹 RESTful APIs for job workflows, interview scheduling, and recruiter analytics  
 🔹 **PostgreSQL + Chart.js** dashboards for hiring metrics and CSV exports  
 🔹 Automated CI/CD with **AWS Lambda** and **Azure DevOps**  
@@ -49,8 +49,8 @@
 
 ### **Hitachi Solutions**  
 *Software Developer | May – Sept 2021 | Chennai, India*  
-💉 Designed a **COVID-19 vaccination scheduling feature** on **Azure** using **ASP.NET MVC**, **React**, and **TypeScript**  
-🔹 Secured patient data via **Azure AD SSO**, **JWT**, & **Salesforce Health Cloud APIs**  
+💉 Designed a **COVID-19 vaccination scheduling feature** using **Python**, **React**, **Django** and **TypeScript**  
+🔹 Secured patient data via **Azure AD SSO** and **JWT** 
 🔹 Optimized UI with caching & virtualization (35% latency reduction)  
 🔹 Automated CI/CD via **Azure DevOps + Dockerized builds**  
 🔹 Delivered **Power BI** dashboards from **Azure SQL** for real-time healthcare analytics   
