@@ -33,7 +33,7 @@
 🧩 Migrated a large-scale security platform from **Angular → React** (30% faster load time)  
 🔹 Refactored & upgraded thousands of deprecated JS libraries  
 🔹 Automated builds with **AWS Lambda**, **Docker**, and **GitHub Actions**  
-🔹 Developed **Node.js microservices** integrated with **Salesforce APIs** and **FastAPI**  
+🔹 Developed **Node.js microservices** integrated with **OpenAI API** and **FastAPI**  
 🔹 Strengthened release pipelines via **Jest** & **Cypress** coverage integration  
 
 ---
