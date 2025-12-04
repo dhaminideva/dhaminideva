@@ -9,7 +9,7 @@
 
 ## 🧠 Certifications / Skills  
 
-**Programming Languages:** Java, C#, Python, SQL, BASH, PowerShell, C++, ASP.NET MVC  
+**Programming Languages:** Java, C#, Python, Django, SQL, BASH, PowerShell, C++, ASP.NET MVC  
 **Software Development:** HTML, CSS, JavaScript, React.js, Node.js, Express.js, TypeScript, REST API, JSON, Azure, AWS  
 **Tools & Frameworks:** Git, Docker, Azure DevOps, Power BI, Salesforce, PostgreSQL, WooCommerce, MS Office, Jira  
 **Certifications:** Oracle Cloud Infrastructure Associate Architect  
@@ -19,12 +19,12 @@
 ## 💼 Experience  
 
 ### **Leader Match Pvt Ltd**  
-*Software Developer | Jan 2025 – Present | Canton, MI*  
-🚀 Scalable **Applicant Tracking System (ATS)** built with **Node.js**, **React**, **Python scripting** and **Azure**  
-🔹 RESTful APIs for job workflows, interview scheduling, and recruiter analytics  
-🔹 **PostgreSQL + Chart.js** dashboards for hiring metrics and CSV exports  
-🔹 Automated CI/CD with **AWS Lambda** and **Azure DevOps**  
-🔹 Insights powered by **Power BI** for real-time hiring performance  
+*Software Developer | Jan 2025 – Present | Remote, US*  
+🚀 Backend systems for a scalable ATS built with **Python**, **Django**, and **PostgreSQL**  
+🔹 **RESTful APIs** for job workflows, interview scheduling, and automated notifications  
+🔹 Optimized data models with **Django ORM** for faster queries + improved integrity  
+🔹 Debugged and refined **Django views** to resolve API failures and enhance reliability  
+🔹 Backend utilities powering recruiter analytics and workflow automation
 
 ---
 
